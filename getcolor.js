@@ -114,5 +114,5 @@ function truncateSharpSign(colorWithSharpSign) {
     }
     return shortHash;
 */
-    return colorWithSharpSign.substring(1,6);
+    return colorWithSharpSign.substring(1,7);
 }
