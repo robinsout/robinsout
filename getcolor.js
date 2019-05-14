@@ -97,17 +97,22 @@ function getHash(inputString) {
 }
 
 function truncateHash(inputHash) {
+    /*
     var shortHash = '';
     for (var i=0; i<=5; i++) { // Truncate md5 hash to match #XXXXXX hex color format, leave first 6 chars
         shortHash += inputHash.charAt(i);
     }
-    return shortHash;
+    return shortHash; */
+    return inputHash.substring(0,6);
 }
 
 function truncateSharpSign(colorWithSharpSign) {
+/*
     var shortHash = '';
     for (var i=1; i<=6; i++) { // Truncate '#' hash-sign
         shortHash += colorWithSharpSign.charAt(i); 
     }
     return shortHash;
+*/
+    return colorWithSharpSign.substring(1,6);
 }
