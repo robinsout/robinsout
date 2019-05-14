@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    transition: all 1s;
+}
+
+#messageBody {
+    margin: auto;
+    top: 50%;
+    padding: 6% 6% 6% 6%;
+    width: 25%;
+    height: 10%;
+    transition: all 1s;
+}

@@ -1,0 +1,16 @@
+{
+    "host": "web10.gigahost.dk",
+    "username": "robinsout",
+    "password": "M45ter$4GigaHosting",
+    "remotePath": "/www/test.makeitforfun.com",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

@@ -1,0 +1,7053 @@
+
+{"colors": [
+  {
+     "name": "Абрикосовый",
+     "hexColor": "#FBCEB1",
+     "alt_name1": "nil",
+     "alt_name2": "абрикос",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Абрикосовый (Crayola)",
+     "hexColor": "#FDD9B5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Агатовый серый",
+     "hexColor": "#B5B8B1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аква",
+     "hexColor": "#00FFFF",
+     "alt_name1": "Aqua",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аквамарин",
+     "hexColor": "#008CF0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аквамариновый",
+     "hexColor": "#7FFFD4",
+     "alt_name1": "Aquamarine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аквамариновый (Crayola)",
+     "hexColor": "#78DBE2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+{
+     "name": "Ализариновый красный",
+     "hexColor": "#E32636",
+     "alt_name1": "Alizarin Crimson",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+{
+     "name": "Алый",
+     "hexColor": "#FF2400",
+     "alt_name1": "Scarlet",
+     "alt_name2": "кровь",
+     "alt_name3": "blood"
+   },
+   {
+     "name": "Амарантово-глубоко-пурпурный",
+     "hexColor": "#9F2B68",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Амарантово-пурпурный",
+     "hexColor": "#AB274F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Амарантово-розовый",
+     "hexColor": "#F19CBB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Амарантовый",
+     "hexColor": "#E52B50",
+     "alt_name1": "Amaranth",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Амарантовый маджента",
+     "hexColor": "#ED3CCA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Амарантовый светло-вишневый",
+     "hexColor": "#CD2682",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Американская роза",
+     "hexColor": "#FF033E",
+     "alt_name1": "American Rose",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аметистовый",
+     "hexColor": "#9966CC",
+     "alt_name1": "Amethyst",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Античная латунь",
+     "hexColor": "#CD9575",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Античный белый",
+     "hexColor": "#FAEBD7",
+     "alt_name1": "Antique White",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Антрацитово-серый",
+     "hexColor": "#293133",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Антрацитовый",
+     "hexColor": "#464451",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Арлекин",
+     "hexColor": "#44944A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Армейский зеленый",
+     "hexColor": "#4B5320",
+     "alt_name1": "Army Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Аспидно-синий",
+     "hexColor": "#6A5ACD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бабушкины яблоки",
+     "hexColor": "#A8E4A0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Базальтово-серый",
+     "hexColor": "#4E5754",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Баклажановый (Crayola)",
+     "hexColor": "#614051",
+     "alt_name1": "nil",
+     "alt_name2": "баклажан",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Баклажановый",
+     "hexColor": "#990066",
+     "alt_name1": "Eggplant",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Баклажановый Canonical",
+     "hexColor": "#772953",
+     "alt_name1": "Canonical aubergine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Банана мания",
+     "hexColor": "#FAE7B5",
+     "alt_name1": "nil",
+     "alt_name2": "банан",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Барвинок",
+     "hexColor": "#CCCCFF",
+     "alt_name1": "Periwinkle",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Барвинок (Crayola)",
+     "hexColor": "#C5D0E6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бедра испуганной нимфы",
+     "hexColor": "#FAEEDD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бежево-коричневый",
+     "hexColor": "#79553D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бежево-красный",
+     "hexColor": "#C1876B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бежево-серый",
+     "hexColor": "#6D6552",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бежевый",
+     "hexColor": "#F5F5DC",
+     "alt_name1": "Beige",
+     "alt_name2": "беж",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бело-алюминиевый",
+     "hexColor": "#A5A5A5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+{
+     "name": "Бело-зеленый",
+     "hexColor": "#BDECB6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Белокурый",
+     "hexColor": "#FAF0BE",
+     "alt_name1": "Blond",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Белоснежный",
+     "hexColor": "#FFFAFA",
+     "alt_name1": "Show",
+     "alt_name2": "снег",
+     "alt_name3": "Showy"
+   },
+   {
+     "name": "Белый",
+     "hexColor": "#FFFFFF",
+     "alt_name1": "White",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Белый навахо",
+     "hexColor": "#FFDEAD",
+     "alt_name1": "Navajo white",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Берлинская лазурь",
+     "hexColor": "#003153",
+     "alt_name1": "Prussian blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бирюзово-голубой (Crayola)",
+     "hexColor": "#77DDE7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бирюзово-зеленый",
+     "hexColor": "#1E5945",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бирюзово-синий",
+     "hexColor": "#3F888F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бирюзовый",
+     "hexColor": "#30D5C8",
+     "alt_name1": "Turquoise",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бисквитный",
+     "hexColor": "#FFE4C4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бисмарк-фуриозо",
+     "hexColor": "#A5260A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бистр",
+     "hexColor": "#3D2B1F",
+     "alt_name1": "Bistre",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно розоватый",
+     "hexColor": "#FFCBDB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-васильковый",
+     "hexColor": "#ABCDEF",
+     "alt_name1": "Pale cornflower blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-желтый",
+     "hexColor": "#FFDB8B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-зелено-серый",
+     "hexColor": "#8D917A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-зеленый",
+     "hexColor": "#89AC76",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-золотистый",
+     "hexColor": "#EEE8AA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-карминный",
+     "hexColor": "#B03F35",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-карминный, ср. Кармин",
+     "hexColor": "#AF4035",
+     "alt_name1": "Pale carmine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-каштановый",
+     "hexColor": "#DDADAF",
+     "alt_name1": "Pale chestnut",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-коричневый",
+     "hexColor": "#755C48",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блеклый коричневый",
+     "hexColor": "#987654",
+     "alt_name1": "Pale brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-песочный цвет",
+     "hexColor": "#DABDAB",
+     "alt_name1": "Pale Sandy Brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-пурпурный",
+     "hexColor": "#F984E5",
+     "alt_name1": "Pale magenta",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-розовый",
+     "hexColor": "#FADADD",
+     "alt_name1": "Pale pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-синий",
+     "hexColor": "#AFEEEE",
+     "alt_name1": "Pale Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледно-фиолетовый",
+     "hexColor": "#957B8D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный весенний бутон",
+     "hexColor": "#ECEBBD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный желтовато-зеленый",
+     "hexColor": "#F0D698",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный желтовато-розовый",
+     "hexColor": "#FFC8A8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный зеленовато-желтый",
+     "hexColor": "#FFDF84",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный зеленый",
+     "hexColor": "#98FB98",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный красновато-пурпурный",
+     "hexColor": "#AC7580",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный оранжево-желтый",
+     "hexColor": "#FFCA86",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный пурпурно-розовый",
+     "hexColor": "#FDBDBA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный пурпурно-синий",
+     "hexColor": "#8A7F8E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный розовато-лиловый",
+     "hexColor": "#996666",
+     "alt_name1": "Pale mauve",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный серо-коричневый",
+     "hexColor": "#BC987E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный фиолетово-красный",
+     "hexColor": "#D87093",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий желто-зеленый",
+     "hexColor": "#CED23A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий желтовато-зеленый",
+     "hexColor": "#8CCB5E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий желтый",
+     "hexColor": "#FFCF40",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий зеленовато-желтый",
+     "hexColor": "#FFDC33",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий зеленовато-синий",
+     "hexColor": "#2A8D9C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий зеленый",
+     "hexColor": "#47A76A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий оранжевый",
+     "hexColor": "#FFB841",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий пурпурно-розовый",
+     "hexColor": "#FF97BB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий пурпурно-синий",
+     "hexColor": "#62639B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий пурпурный",
+     "hexColor": "#DD80CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий синевато-зеленый",
+     "hexColor": "#009B76",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий синий",
+     "hexColor": "#4285B4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блестящий фиолетовый",
+     "hexColor": "#755D9A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Блошиное брюшко",
+     "hexColor": "#4E1609",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бобровый",
+     "hexColor": "#9F8170",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Болгарский розовый",
+     "hexColor": "#480607",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Болотный",
+     "hexColor": "#ACB78E",
+     "alt_name1": "Swamp green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бордово-фиолетовый",
+     "hexColor": "#641C34",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бордовый",
+     "hexColor": "#9B2D30",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Борода Абдель-Керима",
+     "hexColor": "#D5D5D5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Брезентово-серый",
+     "hexColor": "#4C514A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бриллиантово-синий",
+     "hexColor": "#3E5F8A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бриллиантовыый оранжево-желтый",
+     "hexColor": "#FFB02E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бронзовый",
+     "hexColor": "#CD7F32",
+     "alt_name1": "Bronze",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бургундский",
+     "hexColor": "#900020",
+     "alt_name1": "Burgundy",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бурый",
+     "hexColor": "#45161C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бутылочно-зеленый",
+     "hexColor": "#343B29",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ванильный",
+     "hexColor": "#F3E5AB",
+     "alt_name1": "Vanilla",
+     "alt_name2": "Ваниль",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Васильковый",
+     "hexColor": "#6495ED",
+     "alt_name1": "Cornflower blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Васильковый (Crayola)",
+     "hexColor": "#9ACEEB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вердепешевый",
+     "hexColor": "#DAD871",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вердепомовый",
+     "hexColor": "#34C924",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вересково-фиолетовый",
+     "hexColor": "#DE4C8A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Весенне-зеленый (Crayola)",
+     "hexColor": "#ECEABE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Весенний бутон",
+     "hexColor": "#A7FC00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Византийский",
+     "hexColor": "#BD33A4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Византия",
+     "hexColor": "#702963",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Винно-красный",
+     "hexColor": "#5E2129",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вино",
+     "hexColor": "#722F37",
+     "alt_name1": "Wine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Винтовочный зеленый",
+     "hexColor": "#414833",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вишневый",
+     "hexColor": "#911E42",
+     "alt_name1": "nil",
+     "alt_name2": "вишня",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "ВКонтакте",
+     "hexColor": "#45668E",
+     "alt_name1": "VKontakte",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Влюбленная жаба",
+     "hexColor": "#3CAA3C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Вода пляжа Бонди",
+     "hexColor": "#0095B6",
+     "alt_name1": "Bondi Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Водная синь",
+     "hexColor": "#256D7B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Военно-воздушный синий",
+     "hexColor": "#5D8AA8",
+     "alt_name1": "Air Force Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Восход солнца",
+     "hexColor": "#FFCF48",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Выгоревший оранжевый",
+     "hexColor": "#CC5500",
+     "alt_name1": "Burnt Orange",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Галечный серый",
+     "hexColor": "#B8B799",
+     "alt_name1": "nil",
+     "alt_name2": "галька",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гейнсборо",
+     "hexColor": "#DCDCDC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гелиотроп",
+     "hexColor": "#DF73FF",
+     "alt_name1": "Heliotrope",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Георгиново-желтый",
+     "hexColor": "#F3A505",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глиняный коричневый",
+     "hexColor": "#734222",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глициния",
+     "hexColor": "#C9A0DC",
+     "alt_name1": "Wisteria",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глициния (Crayola)",
+     "hexColor": "#CDA4DE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокая фуксия (Crayola)",
+     "hexColor": "#C154C1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий желто-зеленый",
+     "hexColor": "#425E17",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий желтовато-зеленый",
+     "hexColor": "#00541F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий желтовато-коричневый",
+     "hexColor": "#593315",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий желтовато-розовый",
+     "hexColor": "#F64A46",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий желтый",
+     "hexColor": "#B57900",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий зеленовато-желтый",
+     "hexColor": "#9F8200",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий зеленый",
+     "hexColor": "#004524",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий карминно-розовый",
+     "hexColor": "#EF3038",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий карминный",
+     "hexColor": "#A9203E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий каштановый (Crayola)",
+     "hexColor": "#B94E48",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий коралловый",
+     "hexColor": "#FF4040",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий коричневый",
+     "hexColor": "#4D220E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий красновато-коричневый",
+     "hexColor": "#490005",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий красновато-оранжевый",
+     "hexColor": "#A91D11",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий красновато-пурпурный",
+     "hexColor": "#641349",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий красный",
+     "hexColor": "#7B001C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий оливково-зеленый",
+     "hexColor": "#142300",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий оранжево-желтый",
+     "hexColor": "#D76E00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий оранжевый",
+     "hexColor": "#C34D0A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий пурпурно-красный",
+     "hexColor": "#6F0035",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий пурпурно-розовый",
+     "hexColor": "#EB5284",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий пурпурно-синий",
+     "hexColor": "#1A153F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий пурпурный",
+     "hexColor": "#531A50",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий розовый цвет",
+     "hexColor": "#FF1493",
+     "alt_name1": "Deep pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий синевато-зеленый",
+     "hexColor": "#00382B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий синий",
+     "hexColor": "#002F55",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий фиолетово-черный",
+     "hexColor": "#240935",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Глубокий фиолетовый цвет",
+     "hexColor": "#423189",
+     "alt_name1": "Dark violet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубино-синий",
+     "hexColor": "#606E8C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубовато-серый цвет",
+     "hexColor": "#848482",
+     "alt_name1": "Battleship Grey",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубой (Crayola)",
+     "hexColor": "#80DAEB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубой колокольчик (Crayola)",
+     "hexColor": "#A2A2D0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубой",
+     "hexColor": "#00BFFF",
+     "alt_name1": "Deep sky blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Горечавково-синий",
+     "hexColor": "#0E294B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Горный луг",
+     "hexColor": "#30BA8F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Горчичный",
+     "hexColor": "#FFDB58",
+     "alt_name1": "Mustard",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Горькая радость",
+     "hexColor": "#FE6F5E",
+     "alt_name1": "Bittersweet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Горько-сладкий",
+     "hexColor": "#FD7C6E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гранатовый",
+     "hexColor": "#F34723",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гранитовый серый (гранитный)",
+     "hexColor": "#2F353B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Графитно-черный",
+     "hexColor": "#1C1C1C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Графитовый серый",
+     "hexColor": "#474A51",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гридеперлевый",
+     "hexColor": "#C7D0CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Грузинский розовый",
+     "hexColor": "#D71868",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая груша",
+     "hexColor": "#D1E231",
+     "alt_name1": "Pear",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Грушевый",
+     "hexColor": "#EFD334",
+     "alt_name1": "nil",
+     "alt_name2": "груша",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гуммигут",
+     "hexColor": "#E49B0F",
+     "alt_name1": "Gamboge",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Гусеница",
+     "hexColor": "#B2EC5D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дартмутский зеленый",
+     "hexColor": "#00693E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Детская неожиданность",
+     "hexColor": "#F7F21A",
+     "alt_name1": "nil",
+     "alt_name2": "детской неожиданности",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Джазовый джем",
+     "hexColor": "#CA3767",
+     "alt_name1": "nil",
+     "alt_name2": "джаз",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Джинсовый синий",
+     "hexColor": "#1560BD",
+     "alt_name1": "Denim",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дикая клубника (Crayola)",
+     "hexColor": "#FF43A4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дикий арбуз (Crayola)",
+     "hexColor": "#FC6C85",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дикий синий (Crayola)",
+     "hexColor": "#A2ADD0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дымчато-белый",
+     "hexColor": "#F5F5F5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дынно-желтый",
+     "hexColor": "#F4A900",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Дыня (Crayola)",
+     "hexColor": "#FDBCB4",
+     "alt_name1": "nil",
+     "alt_name2": "дыня",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Железно-серый",
+     "hexColor": "#434B4D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтая сера",
+     "hexColor": "#EDFF21",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтая слоновая кость",
+     "hexColor": "#E1CC4F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Бледный желто-зеленый",
+     "hexColor": "#9ACD32",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-зеленый",
+     "hexColor": "#ADFF2F",
+     "alt_name1": "Green-yellow",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-зеленый (Crayola)",
+     "hexColor": "#C5E384",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-золотой",
+     "hexColor": "#CDA434",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-оливковый",
+     "hexColor": "#47402E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-оранжевый",
+     "hexColor": "#ED760E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-оранжевый (Crayola)",
+     "hexColor": "#FFAE42",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-персиковый",
+     "hexColor": "#FADFAD",
+     "alt_name1": "Peach-yellow",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-розовый",
+     "hexColor": "#FFE4B2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желто-серый",
+     "hexColor": "#8F8B66",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтовато-белый",
+     "hexColor": "#FFE2B7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтовато-серый",
+     "hexColor": "#CAA885",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтый",
+     "hexColor": "#FFFF00",
+     "alt_name1": "Yellow",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтый (Crayola)",
+     "hexColor": "#FCE883",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтый ракитник",
+     "hexColor": "#D6AE01",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Желтый школьный автобус",
+     "hexColor": "#FFD800",
+     "alt_name1": "School bus yellow",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Жемчужно-белый",
+     "hexColor": "#EAE6CA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Жимолость",
+     "hexColor": "#CB6586",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Загар (Crayola)",
+     "hexColor": "#FAA76C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Защитно-синий",
+     "hexColor": "#1E90FF",
+     "alt_name1": "Dodger blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Звезды в шоке",
+     "hexColor": "#FF47CA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая весна",
+     "hexColor": "#00FF7F",
+     "alt_name1": "Spring Green",
+     "alt_name2": "весна",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая лужайка",
+     "hexColor": "#7CFC00",
+     "alt_name1": "Lawn Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая мята (мятный)",
+     "hexColor": "#98FF98",
+     "alt_name1": "Mint Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая сосна",
+     "hexColor": "#01796F",
+     "alt_name1": "Pine Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленая сосна (Crayola)",
+     "hexColor": "#158078",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-бежевый",
+     "hexColor": "#BEBD7F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-желтый (Crayola)",
+     "hexColor": "#F0E891",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-коричневый",
+     "hexColor": "#826C34",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-лаймовый",
+     "hexColor": "#BFFF00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-серый",
+     "hexColor": "#4D5645",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зелено-синий",
+     "hexColor": "#1F3438",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленовато-белый",
+     "hexColor": "#F5E6CB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленовато-серый",
+     "hexColor": "#7A7666",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленовато-черный",
+     "hexColor": "#181513",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленое море",
+     "hexColor": "#2E8B57",
+     "alt_name1": "Sea Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленые джунгли (Crayola 1990 года)",
+     "hexColor": "#29AB87",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленые джунгли (Crayola)",
+     "hexColor": "#3BB08F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый",
+     "hexColor": "#008000",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кислотный зеленый",
+     "hexColor": "#00FF00",
+     "alt_name1": "Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый (Crayola)",
+     "hexColor": "#1CAC78",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый лишайник, мох",
+     "hexColor": "#ADDFAD",
+     "alt_name1": "nil",
+     "alt_name2": "мох",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый Мичиганского государственного университета",
+     "hexColor": "#006633",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый мох",
+     "hexColor": "#2F4538",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый орел",
+     "hexColor": "#004953",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый папоротник",
+     "hexColor": "#4F7942",
+     "alt_name1": "Fern green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый серый чай",
+     "hexColor": "#CADABA",
+     "alt_name1": "Gray-Tea Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый темный",
+     "hexColor": "#203A27",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый трилистник",
+     "hexColor": "#009A63",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Зеленый чай",
+     "hexColor": "#D0F0C0",
+     "alt_name1": "Tea Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Золотарник (Crayola)",
+     "hexColor": "#FCD975",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Золотисто-березовый",
+     "hexColor": "#DAA520",
+     "alt_name1": "Goldenrod",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Золотисто-каштановый",
+     "hexColor": "#712F26",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Золотой",
+     "hexColor": "#FFD700",
+     "alt_name1": "Gold",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Золотой (Crayola)",
+     "hexColor": "#E7C697",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ивово-коричневый",
+     "hexColor": "#321414",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Известковая глина",
+     "hexColor": "#79443B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Изумруд",
+     "hexColor": "#009B77",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Изумрудно-зеленый",
+     "hexColor": "#287233",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Изумрудный",
+     "hexColor": "#50C878",
+     "alt_name1": "Emerald",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Индиго",
+     "hexColor": "#4B0082",
+     "alt_name1": "Indigo",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Индиго (Crayola)",
+     "hexColor": "#5D76CB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Индийский зеленый",
+     "hexColor": "#138808",
+     "alt_name1": "Indian green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ирландский зеленый",
+     "hexColor": "#4CBB17",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Июньский бутон",
+     "hexColor": "#BDDA57",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Камелопардовый",
+     "hexColor": "#A25F2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Каменно-серый",
+     "hexColor": "#8B8C7A",
+     "alt_name1": "nil",
+     "alt_name2": "камень",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Канареечный (ярко-желтый)",
+     "hexColor": "#FFFF99",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Капри синий",
+     "hexColor": "#1B5583",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Карибский зеленый",
+     "hexColor": "#1CD3A2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Карминно-розовый",
+     "hexColor": "#EB4C42",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Карминово-красный с коричневым",
+     "hexColor": "#A2231D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Карминово-красный",
+     "hexColor": "#960018",
+     "alt_name1": "Carmine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Карри желтый",
+     "hexColor": "#9D9101",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Каштаново-коричневый",
+     "hexColor": "#633A34",
+     "alt_name1": "nil",
+     "alt_name2": "каштан",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Каштановый",
+     "hexColor": "#CD5C5C",
+     "alt_name1": "Chestnut",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Каштановый (Crayola)",
+     "hexColor": "#BC5D58",
+     "alt_name1": "nil",
+     "alt_name2": "каштан",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кварцевый",
+     "hexColor": "#99958C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кварцевый серый",
+     "hexColor": "#6C6960",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Киноварь (минерал)",
+     "hexColor": "#FF4D00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кирпично-красный",
+     "hexColor": "#CB4154",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кирпично-коричневый",
+     "hexColor": "#884535",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кирпичный",
+     "hexColor": "#B22222",
+     "alt_name1": "Fire brick",
+     "alt_name2": "кирпич",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кленовый зеленый",
+     "hexColor": "#507D2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Клубнично-красный",
+     "hexColor": "#D53032",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кобальт синий",
+     "hexColor": "#0047AB",
+     "alt_name1": "Cobalt",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кобальтовая синь",
+     "hexColor": "#0014A8",
+     "alt_name1": "Zaffre",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кобальтово-синий",
+     "hexColor": "#1E213D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кожа буйвола, палевый",
+     "hexColor": "#F0DC82",
+     "alt_name1": "Buff",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кожура-апельсина",
+     "hexColor": "#FFA000",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Комуфляжный зеленый",
+     "hexColor": "#78866B",
+     "alt_name1": "Camouflage green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный кораллово-красный",
+     "hexColor": "#B32821",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коралловый, кораллово-красный",
+     "hexColor": "#FF7F50",
+     "alt_name1": "Coral",
+     "alt_name2": "коралловый",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кордованский",
+     "hexColor": "#893F45",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневато-оранжевый",
+     "hexColor": "#B15124",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневато-розовый",
+     "hexColor": "#CD9A7B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневато-серый",
+     "hexColor": "#503D33",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневато-черный",
+     "hexColor": "#140F0B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-бежевый",
+     "hexColor": "#8A6642",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-бордовый",
+     "hexColor": "#A52A2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-желтый, цвет увядших листьев",
+     "hexColor": "#C19A6B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-зеленый",
+     "hexColor": "#39352A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-красный",
+     "hexColor": "#781F19",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-малиновый",
+     "hexColor": "#800000",
+     "alt_name1": "Maroon",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-малиновый (Crayola)",
+     "hexColor": "#C8385A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-оливковый",
+     "hexColor": "#25221B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричнево-серый",
+     "hexColor": "#464531",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневый",
+     "hexColor": "#964B00",
+     "alt_name1": "Brown",
+     "alt_name2": "говно",
+     "alt_name3": "shit"
+   },
+   {
+     "name": "Коричневый (Crayola)",
+     "hexColor": "#B4674D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневый темный",
+     "hexColor": "#35170C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневый хаки",
+     "hexColor": "#806B2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневый, умбра жженая",
+     "hexColor": "#8A3324",
+     "alt_name1": "Burnt umber",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричневый, цвета кожанного седла для лошади",
+     "hexColor": "#8B4513",
+     "alt_name1": "nil",
+     "alt_name2": "обама",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Коричный",
+     "hexColor": "#7B3F00",
+     "alt_name1": "Cinnamon",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Королевская фуксия",
+     "hexColor": "#CA2C92",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Королевский пурпурный (Crayola)",
+     "hexColor": "#7851A9",
+     "alt_name1": "nil",
+     "alt_name2": "мантия",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Королевский синий",
+     "hexColor": "#4169E1",
+     "alt_name1": "Royal Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Космические сливки",
+     "hexColor": "#FFF8E7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Космос",
+     "hexColor": "#414A4C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кофейный",
+     "hexColor": "#442D25",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Крайоловый Абрикос",
+     "hexColor": "#FDD5B1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-бордовый",
+     "hexColor": "#B00000",
+     "alt_name1": "секс",
+     "alt_name2": "sex",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-желтовато-коричневый",
+     "hexColor": "#80461B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-коричневый",
+     "hexColor": "#592321",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-оранжевый",
+     "hexColor": "#C93C20",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-оранжевый (Crayola)",
+     "hexColor": "#FF5349",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-сиреневый",
+     "hexColor": "#6D3F5B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-фиолетовый",
+     "hexColor": "#922B3E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красно-фиолетовый (Crayola)",
+     "hexColor": "#C0448F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Краснобуро-оранжевый",
+     "hexColor": "#CD5700",
+     "alt_name1": "Tenné",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красновато-коричневый",
+     "hexColor": "#755A57",
+     "alt_name1": "Russet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красновато-коричневый, пюсовый (устар.)",
+     "hexColor": "#CC8899",
+     "alt_name1": "Puce",
+     "alt_name2": "блоха",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красновато-серый",
+     "hexColor": "#8B6C62",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красновато-черный",
+     "hexColor": "#1E1112",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красное дерево",
+     "hexColor": "#C04000",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красное дерево (Crayola)",
+     "hexColor": "#CD4A4C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красное море",
+     "hexColor": "#1F4037",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красный",
+     "hexColor": "#FF0000",
+     "alt_name1": "Red",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красный (Crayola)",
+     "hexColor": "#EE204D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Красный Университета Бостона",
+     "hexColor": "#CC0000",
+     "alt_name1": "Boston University Red",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кремовый",
+     "hexColor": "#FFFDD0",
+     "alt_name1": "Cream",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кричащий зеленый",
+     "hexColor": "#76FF7A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Крутой розовый (Crayola)",
+     "hexColor": "#FB607F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кукурузно-желтый",
+     "hexColor": "#E4A010",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Кукурузный",
+     "hexColor": "#FBEC5D",
+     "alt_name1": "Corn",
+     "alt_name2": "кукуруза",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лаванда, лавандово-синий",
+     "hexColor": "#E6E6FA",
+     "alt_name1": "Lavender",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лавандовый (Crayola)",
+     "hexColor": "#FCB4D5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лавандовый розовый",
+     "hexColor": "#FBA0E3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лазерный лимон",
+     "hexColor": "#FEFE22",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лазурно-голубой",
+     "hexColor": "#2A52BE",
+     "alt_name1": "Cerulean blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лазурно-синий",
+     "hexColor": "#025669",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лазурный",
+     "hexColor": "#007BA7",
+     "alt_name1": "Cerulean",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лазурный (Crayola)",
+     "hexColor": "#1DACD6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Азур",
+     "hexColor": "#007FFF",
+     "alt_name1": "Azure",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лайм",
+     "hexColor": "#CCFF00",
+     "alt_name1": "Lime",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лаймово-зеленый",
+     "hexColor": "#32CD32",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ламантин",
+     "hexColor": "#979AAA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Латунный",
+     "hexColor": "#B5A642",
+     "alt_name1": "Brass",
+     "alt_name2": "латунь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лесной волк",
+     "hexColor": "#DBD7D2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лесной зеленый",
+     "hexColor": "#228B22",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ливерный",
+     "hexColor": "#534B4F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лиловый",
+     "hexColor": "#C8A2C8",
+     "alt_name1": "Lilac",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лимонно-желтый",
+     "hexColor": "#C7B446",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лимонно-желтый (Crayola)",
+     "hexColor": "#FFF44F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лимонно-кремовый",
+     "hexColor": "#FFFACD",
+     "alt_name1": "Lemon Cream",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лимонный",
+     "hexColor": "#FDE910",
+     "alt_name1": "Lemon",
+     "alt_name2": "лимон",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лиственно-зеленый",
+     "hexColor": "#2D572C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лиственный зеленый (Crayola)",
+     "hexColor": "#6DAE81",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лососево-красный",
+     "hexColor": "#D95030",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лососево-оранжевый",
+     "hexColor": "#E55137",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лососевый",
+     "hexColor": "#FF8C69",
+     "alt_name1": "Salmon",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лососевый (Crayola)",
+     "hexColor": "#FF9BAA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Льняной",
+     "hexColor": "#EEDC82",
+     "alt_name1": "Linen",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Люминесцентный красный",
+     "hexColor": "#F80000",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Люминесцентный ярко-оранжевый",
+     "hexColor": "#FFA420",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Лягушки в обмороке",
+     "hexColor": "#7B917B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Магическая мята",
+     "hexColor": "#AAF0D1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Магнолия",
+     "hexColor": "#F8F4FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Маджента (Crayola)",
+     "hexColor": "#F664AF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Маисовый",
+     "hexColor": "#EDD19C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Майский зеленый",
+     "hexColor": "#4C9141",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Макароны и сыр",
+     "hexColor": "#FFBD88",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Малахитовый",
+     "hexColor": "#0BDA51",
+     "alt_name1": "Malachite",
+     "alt_name2": "малахит",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Маленький мандарин",
+     "hexColor": "#FFA474",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Малиново-красный",
+     "hexColor": "#C51D34",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Малиново-розовый",
+     "hexColor": "#B3446C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Малиновый",
+     "hexColor": "#DC143C",
+     "alt_name1": "Crimson",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Манго-танго",
+     "hexColor": "#FF8243",
+     "alt_name1": "nil",
+     "alt_name2": "манго",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мандариновое танго",
+     "hexColor": "#E1523D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мандариновый",
+     "hexColor": "#F28500",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Маренго",
+     "hexColor": "#4C5866",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Матовый белый",
+     "hexColor": "#F2F3F4",
+     "alt_name1": "Anti-flash White",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Махагон коричневый",
+     "hexColor": "#4C2F27",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медвежье ушко",
+     "hexColor": "#834d18",
+     "alt_name1": "nil",
+     "alt_name2": "медведь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медно-коричневый",
+     "hexColor": "#8E402A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медно-терракотовый",
+     "hexColor": "#904D30",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медный",
+     "hexColor": "#B87333",
+     "alt_name1": "Copper",
+     "alt_name2": "медь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медный (Crayola)",
+     "hexColor": "#DD9475",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медово-желтый",
+     "hexColor": "#A98307",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Медовый",
+     "hexColor": "#DA9A5C",
+     "alt_name1": "Honey",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Международный (сигнальный) оранжевый",
+     "hexColor": "#FF4F00",
+     "alt_name1": "International orange (Safety orange)",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мертвенный индиго",
+     "hexColor": "#00416A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Миндаль",
+     "hexColor": "#FEF1DB",
+     "alt_name1": "Almond",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Миртовый",
+     "hexColor": "#21421E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мовеин (анилиновый пурпур)",
+     "hexColor": "#EF0097",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Модная фуксия",
+     "hexColor": "#F400A1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мокасиновый",
+     "hexColor": "#FFE4B5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мокрый асфальт",
+     "hexColor": "#505050",
+     "alt_name1": "nil",
+     "alt_name2": "бродский",
+     "alt_name3": "brodsky"
+   },
+   {
+     "name": "Мокрый асфальт с зеленым",
+     "hexColor": "#4E5452",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мокрый тропический лес",
+     "hexColor": "#17806D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Море умеренного зеленого цвета",
+     "hexColor": "#3CB371",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Морковный",
+     "hexColor": "#ED9121",
+     "alt_name1": "Carrot",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Морковный, насыщенный",
+     "hexColor": "#F36223",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Морской зеленый",
+     "hexColor": "#54FF9F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Морской зеленый (Crayola)",
+     "hexColor": "#9FE2BF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мурена",
+     "hexColor": "#1C6B72",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мусульманский зеленый",
+     "hexColor": "#009900",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мышино-серый",
+     "hexColor": "#646B63",
+     "alt_name1": "nil",
+     "alt_name2": "мышь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мышьяковый",
+     "hexColor": "#3B444B",
+     "alt_name1": "Arsenic",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мятно-бирюзовый",
+     "hexColor": "#497E76",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мятно-зеленый",
+     "hexColor": "#20603D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Мятно-кремовый",
+     "hexColor": "#FEFFFA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Нарциссово-желтый",
+     "hexColor": "#DC9D00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный",
+     "hexColor": "#803E75",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный желто-зеленый",
+     "hexColor": "#7F8F18",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный желтовато-зеленый",
+     "hexColor": "#478430",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный желтовато-коричневый",
+     "hexColor": "#95500C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный желтовато-розовый",
+     "hexColor": "#FF7A5C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный желтый",
+     "hexColor": "#E59E1F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный зеленовато-желтый",
+     "hexColor": "#CCA817",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный зеленовато-синий",
+     "hexColor": "#00677E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный зеленый",
+     "hexColor": "#006B3C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный коричневый",
+     "hexColor": "#753313",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный красновато-коричневый",
+     "hexColor": "#7F180D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный красновато-оранжевый",
+     "hexColor": "#FFB961",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный красновато-пурпурный",
+     "hexColor": "#9A366B",
+     "alt_name1": "секс.рф",
+     "alt_name2": "sexrf",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный красный",
+     "hexColor": "#BF2233",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный оливково-зеленый",
+     "hexColor": "#0A4500",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный оранжево-желтый",
+     "hexColor": "#FF8E0D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный оранжевый",
+     "hexColor": "#EC7C26",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный пурпурно-красный",
+     "hexColor": "#B32851",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный пурпурно-розовый",
+     "hexColor": "#F6768E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный пурпурно-синий",
+     "hexColor": "#474389",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный розовый",
+     "hexColor": "#FD7B7C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный синевато-зеленый",
+     "hexColor": "#006D5B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный синий",
+     "hexColor": "#00538A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный фиолетовый",
+     "hexColor": "#53377A",
+     "alt_name1": "nil",
+     "alt_name2": "Гребенщиков",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Небесная лазурь",
+     "hexColor": "#699AE6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Небесно-синий",
+     "hexColor": "#2271B3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Небесный",
+     "hexColor": "#7FC7FF",
+     "alt_name1": "nil",
+     "alt_name2": "небо",
+     "alt_name3": "sky"
+   },
+   {
+     "name": "Нежно-оливковый",
+     "hexColor": "#6B8E23",
+     "alt_name1": "Olive Drab",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Незрелый желтый",
+     "hexColor": "#FFFF66",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Неоново-морковный",
+     "hexColor": "#FFA343",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Нефритовый",
+     "hexColor": "#00A86B",
+     "alt_name1": "Jade",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ниагара",
+     "hexColor": "#9DB1CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ночной синий",
+     "hexColor": "#252850",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Обычный весенний бутон",
+     "hexColor": "#C9DC87",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Огненная Сиенна (Crayola)",
+     "hexColor": "#EA7E5D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Огненно-красный",
+     "hexColor": "#AF2B1E",
+     "alt_name1": "fire",
+     "alt_name2": "огонь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Огненный оранжевый",
+     "hexColor": "#FF7F49",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Одуванчиковый",
+     "hexColor": "#FDDB6D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Океанская синь",
+     "hexColor": "#1D334A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оксид красный",
+     "hexColor": "#642424",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Олень коричневый",
+     "hexColor": "#59351F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливково-желтый",
+     "hexColor": "#999950",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+    {
+     "name": "Оливково-зеленый",
+     "hexColor": "#424632",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливково-зеленый (Crayola)",
+     "hexColor": "#BAB86C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливково-коричневый",
+     "hexColor": "#6F4F28",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливково-серый",
+     "hexColor": "#4D4234",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливково-черный",
+     "hexColor": "#121910",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оливковый",
+     "hexColor": "#808000",
+     "alt_name1": "Olive",
+     "alt_name2": "оливки",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Опаловый зеленый",
+     "hexColor": "#015D52",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оперный розовато-лиловый",
+     "hexColor": "#B784A7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжевая заря",
+     "hexColor": "#FD5E53",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжево-желтый (Crayola)",
+     "hexColor": "#F8D568",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжево-коричневый",
+     "hexColor": "#A65E2E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжево-красный (Crayola)",
+     "hexColor": "#FF2B2B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжево-персиковый",
+     "hexColor": "#FFCC99",
+     "alt_name1": "Peach-orange",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжево-розовый",
+     "hexColor": "#FF9966",
+     "alt_name1": "Pink-orange",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжевый",
+     "hexColor": "#FFA500",
+     "alt_name1": "Orange",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжевый (Crayola)",
+     "hexColor": "#FF7538",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Оранжевый Ubuntu",
+     "hexColor": "#DD4814",
+     "alt_name1": "Ubuntu orange",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Орехово-коричневый",
+     "hexColor": "#5B3A29",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ориент красный",
+     "hexColor": "#B32428",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Орхидея",
+     "hexColor": "#DA70D6",
+     "alt_name1": "Orchid",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+  {
+     "name": "Орхидея (Crayola)",
+     "hexColor": "#E6A8D7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Отборный желтый",
+     "hexColor": "#FFBA00",
+     "alt_name1": "Selective yellow",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Отдаленно-синий",
+     "hexColor": "#49678D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Охотничий зеленый",
+     "hexColor": "#355E3B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Охра",
+     "hexColor": "#CC7722",
+     "alt_name1": "Ochre",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Охра желтая",
+     "hexColor": "#AEA04B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Охра коричневая",
+     "hexColor": "#955F20",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень бледно-пурпурный",
+     "hexColor": "#E6BBC1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень бледный зеленый",
+     "hexColor": "#D8DEBA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень бледный пурпурно-синий",
+     "hexColor": "#CBBAC5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень бледный синий",
+     "hexColor": "#C1CACA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень бледный фиолетовый",
+     "hexColor": "#D8B1BF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень глубокий желтовато-зеленый",
+     "hexColor": "#002800",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень глубокий красновато-пурпурный",
+     "hexColor": "#470736",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень глубокий красный",
+     "hexColor": "#4F0014",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень глубокий пурпурно-красный",
+     "hexColor": "#470027",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень глубокий пурпурный",
+     "hexColor": "#320B35",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светло-пурпурный",
+     "hexColor": "#E3A9BE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый желтовато-зеленый",
+     "hexColor": "#C6DF90",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый зеленовато-синий",
+     "hexColor": "#A3C6C0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый зеленый",
+     "hexColor": "#98C793",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый пурпурно-синий",
+     "hexColor": "#BAACC7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый синевато-зеленый",
+     "hexColor": "#A0D6B4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый синий",
+     "hexColor": "#A6BDD7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень светлый фиолетовый",
+     "hexColor": "#EEBEF1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный желтовато-зеленый",
+     "hexColor": "#132712",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный зеленовато-синий",
+     "hexColor": "#022027",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный зеленый",
+     "hexColor": "#16251C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный красновато-пурпурный",
+     "hexColor": "#270A1F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный красный",
+     "hexColor": "#320A18",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный оливковый",
+     "hexColor": "#362C12",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный пурпурно-красный",
+     "hexColor": "#28071A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очень темный синевато-зеленый",
+     "hexColor": "#001D18",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Очищенный миндаль",
+     "hexColor": "#FFEBCD",
+     "alt_name1": "nil",
+     "alt_name2": "миндаль",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Панг",
+     "hexColor": "#C7FCEC",
+     "alt_name1": "Pang",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Папоротник (Crayola)",
+     "hexColor": "#71BC78",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Папоротниково-зеленый",
+     "hexColor": "#3D642D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пасмурно-небесный",
+     "hexColor": "#87CEEB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-бирюзовый",
+     "hexColor": "#7FB5B5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-желтый",
+     "hexColor": "#EFA94A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-зеленый",
+     "hexColor": "#77DD77",
+     "alt_name1": "Pastel green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-оранжевый",
+     "hexColor": "#FF7514",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-розовый",
+     "hexColor": "#FFD1DC",
+     "alt_name1": "Pastel pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-синий",
+     "hexColor": "#5D9B9B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пастельно-фиолетовый",
+     "hexColor": "#A18594",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Патиново-зеленый",
+     "hexColor": "#316650",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пергидрольная блондинка",
+     "hexColor": "#EEE6A3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перекатиполе",
+     "hexColor": "#DEAA88",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-бежевый",
+     "hexColor": "#6A5D4D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-ежевичный",
+     "hexColor": "#6C6874",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-зеленый",
+     "hexColor": "#1C542D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-золотой",
+     "hexColor": "#705335",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-оранжевый",
+     "hexColor": "#C35831",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-розовый",
+     "hexColor": "#B44C43",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-рубиновый",
+     "hexColor": "#721422",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутрово-фиолетовый",
+     "hexColor": "#8673A1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый горечавково-синий",
+     "hexColor": "#2A6478",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый медный",
+     "hexColor": "#763C28",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый мышино-серый",
+     "hexColor": "#898176",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый ночной",
+     "hexColor": "#102C54",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый опаловый",
+     "hexColor": "#193737",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый светло-серый",
+     "hexColor": "#9C9C9C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Перламутровый темно-серый",
+     "hexColor": "#828282",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персидский зеленый",
+     "hexColor": "#00A693",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персидский индиго",
+     "hexColor": "#32127A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персидский красный",
+     "hexColor": "#CC3333",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персидский розовый",
+     "hexColor": "#FE28A2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персидский синий",
+     "hexColor": "#6600FF",
+     "alt_name1": "Persian blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персиковый",
+     "hexColor": "#ffb07c",
+     "alt_name1": "Peach",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Персиковый (Crayola)",
+     "hexColor": "#FFCFAB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Песок пустыни",
+     "hexColor": "#EFCDB8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Песочно-желтый",
+     "hexColor": "#C6A664",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Песочный",
+     "hexColor": "#FCDD76",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Песочный серо-коричневый",
+     "hexColor": "#967117",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Песочный цвет",
+     "hexColor": "#F4A460",
+     "alt_name1": "Sandy brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пигментный зеленый",
+     "hexColor": "#00A550",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пихтовый зеленый",
+     "hexColor": "#31372B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пламенная Маджента (Crayola)",
+     "hexColor": "#F8173E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Платиново-серый",
+     "hexColor": "#7F7679",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Побег папайи",
+     "hexColor": "#FFEFD5",
+     "alt_name1": "Papaya whip",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пожарная машина",
+     "hexColor": "#CE2029",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Полумрак (Crayola)",
+     "hexColor": "#8A795D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Полуночно-синий",
+     "hexColor": "#003366",
+     "alt_name1": "Midnight Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Полуночный синий (Crayola)",
+     "hexColor": "#1A4876",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Полуночный черный",
+     "hexColor": "#191970",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пороховая синь",
+     "hexColor": "#003399",
+     "alt_name1": "Powder blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Последний вздох Жако",
+     "hexColor": "#FF9218",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Почти черный",
+     "hexColor": "#131313",
+     "alt_name1": "Almost black",
+     "alt_name2": "путин",
+     "alt_name3": "putin"
+   },
+   {
+     "name": "Призрачно-белый",
+     "hexColor": "#F8F8FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурная пицца",
+     "hexColor": "#FF00CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-белый",
+     "hexColor": "#FADBC8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-красный",
+     "hexColor": "#75151E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-серый",
+     "hexColor": "#88706B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-синий",
+     "hexColor": "#20155E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-фиолетовый",
+     "hexColor": "#4A192C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурно-черный",
+     "hexColor": "#1B1116",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурное горное величие",
+     "hexColor": "#9D81BA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурное сердце",
+     "hexColor": "#7442C8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пурпурный",
+     "hexColor": "#7442C8",
+     "alt_name1": "nil",
+     "alt_name2": "сердце",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пшеничный",
+     "hexColor": "#F5DEB3",
+     "alt_name1": "Wheat",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пылкий розовый",
+     "hexColor": "#FF7E93",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пыльно-серый",
+     "hexColor": "#7D7F7D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Пыльный голубой",
+     "hexColor": "#B0E0E6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Радикальный красный",
+     "hexColor": "#FF496C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Рапсово-желтый",
+     "hexColor": "#F3DA0B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Резедово-зеленый",
+     "hexColor": "#587246",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ржаво-коричневый",
+     "hexColor": "#B7410E",
+     "alt_name1": "Rust",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовато-лилово-серый",
+     "hexColor": "#915F6D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовато-лиловый",
+     "hexColor": "#993366",
+     "alt_name1": "Mauve",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовато-лиловый (Crayola)",
+     "hexColor": "#EF98AA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовато-серый",
+     "hexColor": "#C8A696",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовая гвоздика",
+     "hexColor": "#FFAACC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовая долина",
+     "hexColor": "#AB4E52",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовая фуксия",
+     "hexColor": "#FF77FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-золотой",
+     "hexColor": "#B76E79",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-коричневый",
+     "hexColor": "#BC8F8F",
+     "alt_name1": "Rosy Brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-лавандовый",
+     "hexColor": "#FFF0F5",
+     "alt_name1": "Lavender Blush",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-серо-коричневый",
+     "hexColor": "#905D5D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-фиолетовый",
+     "hexColor": "#EE82EE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розово-эбонитовый",
+     "hexColor": "#674846",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+  {
+     "name": "Розовый",
+     "hexColor": "#ff81c0",
+     "alt_name1": "Pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый (Пощекочи меня)",
+     "hexColor": "#FC89AC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый антик",
+     "hexColor": "#D36E70",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый кварц",
+     "hexColor": "#AA98A9",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый лес",
+     "hexColor": "#65000B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый Маунтбэттена",
+     "hexColor": "#997A8D",
+     "alt_name1": "Mountbatten pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый поросенок",
+     "hexColor": "#FDDDE6",
+     "alt_name1": "nil",
+     "alt_name2": "поросенок",
+     "alt_name3": "свинья"
+   },
+   {
+     "name": "Розовый фламинго",
+     "hexColor": "#FC74FD",
+     "alt_name1": "Pink Flamingo",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Розовый щербет",
+     "hexColor": "#F78FA7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Рубиново-красный",
+     "hexColor": "#9B111E",
+     "alt_name1": "nil",
+     "alt_name2": "страсть",
+     "alt_name3": "passion"
+   },
+   {
+     "name": "Румянец",
+     "hexColor": "#DE5D83",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Рыжий",
+     "hexColor": "#D77D31",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Салатовый",
+     "hexColor": "#99FF99",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Салатовый цвет, шартрез",
+     "hexColor": "#7FFF00",
+     "alt_name1": "Chartreuse",
+     "alt_name2": "салат",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Салутовый",
+     "hexColor": "#F39643",
+     "alt_name1": "Sana",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сангрия",
+     "hexColor": "#92000A",
+     "alt_name1": "Sangria",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сапфирово-синий",
+     "hexColor": "#1D1E33",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сапфировый",
+     "hexColor": "#082567",
+     "alt_name1": "Sapphire",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлая вишня",
+     "hexColor": "#DE3163",
+     "alt_name1": "Cerise",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлая Сиена",
+     "hexColor": "#E28B00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлая слива",
+     "hexColor": "#DDA0DD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлая слоновая кость",
+     "hexColor": "#FFFDDF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-бирюзовый",
+     "hexColor": "#40E0D0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-вишневый (Crayola)",
+     "hexColor": "#DD4492",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-голубой",
+     "hexColor": "#87CEFA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-желтый",
+     "hexColor": "#FFFFE0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-желтый золотистый",
+     "hexColor": "#FAFAD2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-зеленый",
+     "hexColor": "#90EE90",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-золотистый",
+     "hexColor": "#FFEC8B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-карминово-розовый",
+     "hexColor": "#E66761",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+  {
+     "name": "Светло-коралловый",
+     "hexColor": "#FFBCAD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-коричневый",
+     "hexColor": "#CD853F",
+     "alt_name1": "Light brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-оливковый",
+     "hexColor": "#846A20",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-песочный",
+     "hexColor": "#FDEAA8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-пурпурный",
+     "hexColor": "#BA7FA2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-розовато-лиловый",
+     "hexColor": "#DCD0FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-розовая фуксия",
+     "hexColor": "#F984EF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-розово-лиловый",
+     "hexColor": "#EA899A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-розовый",
+     "hexColor": "#FFB6C1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-серебристый",
+     "hexColor": "#C9C0BB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-серо-синий",
+     "hexColor": "#84C3BE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-серовато-красный",
+     "hexColor": "#B17267",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-серый",
+     "hexColor": "#D7D7D7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-сине-серый",
+     "hexColor": "#6C92AF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-синий",
+     "hexColor": "#ADD8E6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-тициановый",
+     "hexColor": "#D84B20",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светло-фиолетовый",
+     "hexColor": "#876C99",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлое зеленое море",
+     "hexColor": "#20B2AA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый аспидно-серый",
+     "hexColor": "#778899",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый глубокий желтый",
+     "hexColor": "#FFD35F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый джинсовый",
+     "hexColor": "#2B6CC4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый желто-зеленый",
+     "hexColor": "#DCD36A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый желтовато-коричневый",
+     "hexColor": "#BB8B54",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый желтовато-розовый",
+     "hexColor": "#FFB28B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый зеленовато-белый",
+     "hexColor": "#BAAF96",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый зеленовато-желтый",
+     "hexColor": "#FFDE5A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый зеленовато-синий",
+     "hexColor": "#649A9E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый киноварь (минерал)",
+     "hexColor": "#E34234",
+     "alt_name1": "Vermilion",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый коричневато-серый",
+     "hexColor": "#8B6D5C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый коричневый",
+     "hexColor": "#A86540",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый красновато-коричневый",
+     "hexColor": "#AA6651",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый красновато-пурпурный",
+     "hexColor": "#BB6C8A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый малиново-красный",
+     "hexColor": "#E63244",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый оливково-коричневый",
+     "hexColor": "#945D0B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый оливково-серый",
+     "hexColor": "#887359",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый оранжевый",
+     "hexColor": "#FFA161",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый пурпурно-розовый",
+     "hexColor": "#FFA8AF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый пурпурно-серый",
+     "hexColor": "#C8A99E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый пурпурно-синий",
+     "hexColor": "#837DA2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серовато-желтовато-коричневый",
+     "hexColor": "#B48764",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серовато-коричневый",
+     "hexColor": "#946B54",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серовато-красновато-коричневый",
+     "hexColor": "#966A57",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серовато-оливковый",
+     "hexColor": "#8B734B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серовато-пурпурно-красный",
+     "hexColor": "#B27070",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый серый",
+     "hexColor": "#C2A894",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый синевато-зеленый",
+     "hexColor": "#669E85",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый синевато-серый",
+     "hexColor": "#BEADA1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый стальной синий",
+     "hexColor": "#B0C4DE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый Телегрей",
+     "hexColor": "#D0D0D0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый хаки",
+     "hexColor": "#F0E68C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый циан",
+     "hexColor": "#E0FFFF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Селадоновый",
+     "hexColor": "#ACE1AF",
+     "alt_name1": "Celadon",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сепия",
+     "hexColor": "#704214",
+     "alt_name1": "Sepia",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сепия (Crayola)",
+     "hexColor": "#A5694F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сепия коричневый",
+     "hexColor": "#382C1E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серая белка",
+     "hexColor": "#78858B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серая спаржа",
+     "hexColor": "#465945",
+     "alt_name1": "Gray-asparagus",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серая умбра",
+     "hexColor": "#332F2C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серебристо-серый",
+     "hexColor": "#8A9597",
+     "alt_name1": "nil",
+     "alt_name2": "цирконий",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серебряный",
+     "hexColor": "#C0C0C0",
+     "alt_name1": "Silver",
+     "alt_name2": "серебро",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серебряный (Crayola)",
+     "hexColor": "#CDC5C2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серо-бежевый",
+     "hexColor": "#9E9764",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серо-коричневый",
+     "hexColor": "#403A3A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серо-оливковый",
+     "hexColor": "#3E3B32",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серо-синий",
+     "hexColor": "#5F9EA0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серо-синий (Crayola)",
+     "hexColor": "#B0B7C6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серобуромалиновый",
+     "hexColor": "#735184",
+     "alt_name1": "nil",
+     "alt_name2": "серобурокозюльчатый",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-желтовато-зеленый",
+     "hexColor": "#90845B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-желтовато-коричневый",
+     "hexColor": "#785840",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-желтовато-розовый",
+     "hexColor": "#D39B85",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-желтый",
+     "hexColor": "#CEA262",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-зеленовато-желтый",
+     "hexColor": "#C4A55F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-зеленый",
+     "hexColor": "#575E4E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-коричневый",
+     "hexColor": "#5A3D30",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-красновато-коричневый",
+     "hexColor": "#5E3830",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-красновато-оранжевый",
+     "hexColor": "#B85D43",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-красновато-пурпурный",
+     "hexColor": "#7D4D5D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-красный",
+     "hexColor": "#8C4743",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-оливковый",
+     "hexColor": "#52442C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-пурпурно-красный",
+     "hexColor": "#8C4852",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-пурпурно-розовый",
+     "hexColor": "#CC9293",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-пурпурно-синий",
+     "hexColor": "#413D51",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-пурпурный",
+     "hexColor": "#72525C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-розовый",
+     "hexColor": "#CF9B8F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-синий",
+     "hexColor": "#4A545C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серовато-фиолетовый",
+     "hexColor": "#46394B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сероватый оливково-зеленый",
+     "hexColor": "#48442D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серое окно",
+     "hexColor": "#9DA1AA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый",
+     "hexColor": "#808080",
+     "alt_name1": "Gray",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый (Crayola)",
+     "hexColor": "#95918C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый бетон",
+     "hexColor": "#686C5E",
+     "alt_name1": "nil",
+     "alt_name2": "бетон",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый мох",
+     "hexColor": "#6C7059",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый нейтральный",
+     "hexColor": "#A0A0A4",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый хаки",
+     "hexColor": "#6A5F31",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый шелк",
+     "hexColor": "#CAC4B0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Серый шифер",
+     "hexColor": "#708090",
+     "alt_name1": "Slate gray",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный желтый",
+     "hexColor": "#E5BE01",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный зеленый",
+     "hexColor": "#317F43",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный коричневый",
+     "hexColor": "#6C3B2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный красный",
+     "hexColor": "#A52019",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный оранжевый",
+     "hexColor": "#FF9900",
+     "alt_name1": "Safety Orange (Blaze Orange)",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный серый",
+     "hexColor": "#969992",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный синий",
+     "hexColor": "#1E2460",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный фиолетовый",
+     "hexColor": "#924E7D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сигнальный черный",
+     "hexColor": "#282828",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сиена",
+     "hexColor": "#A0522D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сиена жженая",
+     "hexColor": "#E97451",
+     "alt_name1": "Burnt Sienna",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сизый",
+     "hexColor": "#79A0C1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-зеленый",
+     "hexColor": "#1F3A3D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-зеленый (Crayola)",
+     "hexColor": "#0D98BA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-лиловый",
+     "hexColor": "#8A2BE2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-серый",
+     "hexColor": "#474B4E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-серый (Crayola)",
+     "hexColor": "#6699CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-сиреневый",
+     "hexColor": "#6C4675",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сине-фиолетовый (Crayola)",
+     "hexColor": "#7366BD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синевато-белый",
+     "hexColor": "#F9DFCF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синевато-серый",
+     "hexColor": "#7D746D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синевато-черный",
+     "hexColor": "#151719",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий",
+     "hexColor": "#0000FF",
+     "alt_name1": "Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий (Crayola)",
+     "hexColor": "#1F75FE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий Градуса",
+     "hexColor": "#007DFF",
+     "alt_name1": "Gradus Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий Клейна",
+     "hexColor": "#3A75C4",
+     "alt_name1": "Klein Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий цвета яиц странствующего дрозда",
+     "hexColor": "#1FCECB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синий чирок",
+     "hexColor": "#18A7B5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Голубой Элис [Рузвельт Лонгворт]",
+     "hexColor": "#F0F8FF",
+     "alt_name1": "Alice Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Синяя сталь",
+     "hexColor": "#4682B4",
+     "alt_name1": "Steel blue",
+     "alt_name2": "сталь",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сиреневый",
+     "hexColor": "#DB7093",
+     "alt_name1": "Pale red-violet",
+     "alt_name2": "сирень",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сияющая орхидея",
+     "hexColor": "#B565A7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Скандальный оранжевый",
+     "hexColor": "#FF6E4A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Скарлет",
+     "hexColor": "#FC2847",
+     "alt_name1": "Scarlet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сладкая вата",
+     "hexColor": "#FFBCD9",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сланцево-серый",
+     "hexColor": "#434750",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сливовый",
+     "hexColor": "#660066",
+     "alt_name1": "Plum",
+     "alt_name2": "слива",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сливовый (Crayola)",
+     "hexColor": "#8E4585",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сливочно-кремовый",
+     "hexColor": "#F2DDC6",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сливочный",
+     "hexColor": "#F2E8C9",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Слоновая кость",
+     "hexColor": "#ffffcb",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Снежно-синий",
+     "hexColor": "#ACE5EE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Солнечно-желтый",
+     "hexColor": "#F39F18",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сомон",
+     "hexColor": "#EFAF8C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сосновый зеленый",
+     "hexColor": "#2C5545",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Спаржа",
+     "hexColor": "#7BA05B",
+     "alt_name1": "Asparagus",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Спаржа (Crayola)",
+     "hexColor": "#87A96B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Средний персидский синий",
+     "hexColor": "#0067A5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Средний пурпурный",
+     "hexColor": "#9370D8",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Средний серый",
+     "hexColor": "#817066",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Стально-синий",
+     "hexColor": "#231A24",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Старинный розовый",
+     "hexColor": "#C08081",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Старое золото",
+     "hexColor": "#CFB53B",
+     "alt_name1": "Old Gold",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Старое кружево",
+     "hexColor": "#FDF5E6",
+     "alt_name1": "Old Lace",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Суета",
+     "hexColor": "#E3256B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+  {
+     "name": "Сырая охра",
+     "hexColor": "#D68A59",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Сырая умбра",
+     "hexColor": "#714B23",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Твиттер",
+     "hexColor": "#00ACED",
+     "alt_name1": "Twitter",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Телегрей",
+     "hexColor": "#909090",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Телемагента",
+     "hexColor": "#CF3476",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темная Византия",
+     "hexColor": "#5D3954",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+{
+     "name": "Темная лососина",
+     "hexColor": "#E9967A",
+     "alt_name1": "Dark salmon",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темная орхидея",
+     "hexColor": "#9932CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-алый",
+     "hexColor": "#560319",
+     "alt_name1": "Dark Scarlet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Насыщенный темно-алый",
+     "hexColor": "#CB2821",
+     "alt_name1": "цвет лёнькиного пригара",
+     "alt_name2": "любовь",
+     "alt_name3": "love"
+   },
+   {
+     "name": "Темно-аспидный серый, аспидно-серый",
+     "hexColor": "#2F4F4F",
+     "alt_name1": "Dark slate gray",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-бирюзовый",
+     "hexColor": "#116062",
+     "alt_name1": "Dark turquoise",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-голубой",
+     "hexColor": "#3B83BD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-грушевый",
+     "hexColor": "#D8A903",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-желтый",
+     "hexColor": "#B07D2B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-зеленый",
+     "hexColor": "#013220",
+     "alt_name1": "Dark green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-золотой",
+     "hexColor": "#B8860B",
+     "alt_name1": "Dark goldenrod",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-каштановый",
+     "hexColor": "#986960",
+     "alt_name1": "Dark chestnut",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-коралловый",
+     "hexColor": "#CD5B45",
+     "alt_name1": "Dark coral",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-коричневый",
+     "hexColor": "#654321",
+     "alt_name1": "Dark brown",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-красный, кардинал",
+     "hexColor": "#C41E3A",
+     "alt_name1": "Cardinal",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-лазурный",
+     "hexColor": "#08457E",
+     "alt_name1": "Dark cerulean",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-мандариновый",
+     "hexColor": "#FFA812",
+     "alt_name1": "Dark tangerine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-оливковый",
+     "hexColor": "#556832",
+     "alt_name1": "Dark Olive",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-оранжевый",
+     "hexColor": "#FF8C00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-персиковый",
+     "hexColor": "#de7e5d",
+     "alt_name1": "Dark Peach",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-пурпурный",
+     "hexColor": "#472A3F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-розовый",
+     "hexColor": "#E75480",
+     "alt_name1": "Dark pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-серо-коричневый",
+     "hexColor": "#483C32",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-сероватый оливково-зеленый",
+     "hexColor": "#27261A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-серый",
+     "hexColor": "#49423D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+  {
+     "name": "Темно-синий",
+     "hexColor": "#002137",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-синий (Crayola)",
+     "hexColor": "#1974D2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-синий, цвет формы морских офицеров",
+     "hexColor": "#000080",
+     "alt_name1": "Navy",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-фиолетовый",
+     "hexColor": "#9400D3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темное зеленое море",
+     "hexColor": "#8FBC8F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темно-красный",
+     "hexColor": "#8B0000",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный аспидно-синий",
+     "hexColor": "#483D8B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный весенне-зеленый",
+     "hexColor": "#177245",
+     "alt_name1": "Dark spring green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный желто-зеленый",
+     "hexColor": "#57A639",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный желто-коричневый",
+     "hexColor": "#918151",
+     "alt_name1": "Dark tan",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный желтовато-зеленый",
+     "hexColor": "#304B26",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный желтовато-коричневый",
+     "hexColor": "#3F2512",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный желтовато-розовый",
+     "hexColor": "#CC6C5C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный зеленовато-желтовато-зеленый",
+     "hexColor": "#313830",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный зеленовато-желтый",
+     "hexColor": "#9B8127",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный зеленовато-серый",
+     "hexColor": "#45433B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный зеленовато-синий",
+     "hexColor": "#003841",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный зеленый чай",
+     "hexColor": "#BADBAD",
+     "alt_name1": "Dark Tea Green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный индиго",
+     "hexColor": "#310062",
+     "alt_name1": "Dark Indigo",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный красновато-коричневый",
+     "hexColor": "#321011",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный красновато-оранжевый",
+     "hexColor": "#9B2F1F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный красновато-пурпурный",
+     "hexColor": "#4F273A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный красновато-серый",
+     "hexColor": "#523C36",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный красный",
+     "hexColor": "#681C23",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный маджента",
+     "hexColor": "#8B008B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный оливково-зеленый",
+     "hexColor": "#232C16",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный оливково-коричневый",
+     "hexColor": "#302112",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный оранжево-желтый",
+     "hexColor": "#C37629",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пастельно-зеленый",
+     "hexColor": "#03C03C",
+     "alt_name1": "Dark pastel green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пурпурно-красный",
+     "hexColor": "#5B1E31",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пурпурно-розовый",
+     "hexColor": "#C76574",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пурпурно-серый",
+     "hexColor": "#564042",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пурпурно-синий",
+     "hexColor": "#1A162A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный пурпурно-фиолетовый",
+     "hexColor": "#660099",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный розовый",
+     "hexColor": "#C76864",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серо-синий",
+     "hexColor": "#26252D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-желтый",
+     "hexColor": "#A47C45",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-коричневый",
+     "hexColor": "#32221A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-красновато-коричневый",
+     "hexColor": "#371F1C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-красный",
+     "hexColor": "#482A2A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-оливковый",
+     "hexColor": "#2B2517",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный серовато-синий",
+     "hexColor": "#2C3337",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный синевато-зеленый",
+     "hexColor": "#013A33",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный синевато-черный",
+     "hexColor": "#464544",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный Телегрей",
+     "hexColor": "#82898F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный хаки",
+     "hexColor": "#BDB76B",
+     "alt_name1": "Dark Khaki",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный циан",
+     "hexColor": "#008B8B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный черовато-пурпурный",
+     "hexColor": "#452D35",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Темный янтарь",
+     "hexColor": "#FF7E00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Терракота",
+     "hexColor": "#CC4E5C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Терракотовый",
+     "hexColor": "#c9643b",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тихоокеанский синий",
+     "hexColor": "#1CA9C9",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тициановый",
+     "hexColor": "#d53e07",
+     "alt_name1": "Titian",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Томатно-красный",
+     "hexColor": "#A12312",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Томатный",
+     "hexColor": "#FF6347",
+     "alt_name1": "Tomato",
+     "alt_name2": "помидор",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Травяной",
+     "hexColor": "#006400",
+     "alt_name1": "Grass",
+     "alt_name2": "трава",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Светлый травяной",
+     "hexColor": "#5DA130",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Старый травяной",
+     "hexColor": "#35682D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортно-желтый",
+     "hexColor": "#FAD201",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный зеленый",
+     "hexColor": "#308446",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный красный",
+     "hexColor": "#CC0605",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный оранжевый",
+     "hexColor": "#F54021",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный пурпурный",
+     "hexColor": "#A03472",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный серый",
+     "hexColor": "#8D948D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный синий",
+     "hexColor": "#063971",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Транспортный черный",
+     "hexColor": "#1E1E1E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Трилистник (Crayola)",
+     "hexColor": "#45CEA2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тростниково-зеленый",
+     "hexColor": "#6C7156",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Турецкий розовый",
+     "hexColor": "#B57281",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тускло-розовый",
+     "hexColor": "#FFE4E1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тусклый амарантово-розовый",
+     "hexColor": "#DDBEC3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тусклый серый",
+     "hexColor": "#696969",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Тыква",
+     "hexColor": "#FF7518",
+     "alt_name1": "Pumpkin",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ультрамарин",
+     "hexColor": "#120A8F",
+     "alt_name1": "Ultramarine",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ультрамариново-синий",
+     "hexColor": "#20214F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умбра",
+     "hexColor": "#734A12",
+     "alt_name1": "Raw umber",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренно зеленый",
+     "hexColor": "#C0DCC0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренно-бирюзовый",
+     "hexColor": "#48D1CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренно-оливковый",
+     "hexColor": "#5E490F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный аквамариновый",
+     "hexColor": "#66CDAA",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный аспидно-синий",
+     "hexColor": "#7B68EE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный весенний зеленый",
+     "hexColor": "#00FA9A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный желто-зеленый",
+     "hexColor": "#8B8940",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный желтовато-зеленый",
+     "hexColor": "#657F4B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный желтовато-коричневый",
+     "hexColor": "#7D512D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный желтовато-розовый",
+     "hexColor": "#EE9374",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный желтый",
+     "hexColor": "#D79D41",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный зеленовато-желтый",
+     "hexColor": "#C4A43D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный зеленовато-синий",
+     "hexColor": "#30626B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный зеленый",
+     "hexColor": "#386646",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный коричневый",
+     "hexColor": "#673923",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный красновато-оранжевый",
+     "hexColor": "#D35339",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный красновато-пурпурный",
+     "hexColor": "#8C4566",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный красный",
+     "hexColor": "#AB343A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный оливково-зеленый",
+     "hexColor": "#434B1B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный оливково-коричневый",
+     "hexColor": "#64400F",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный оранжево-желтый",
+     "hexColor": "#F7943C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный оранжевый",
+     "hexColor": "#E8793E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный пурпурно-красный",
+     "hexColor": "#A73853",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный пурпурно-розовый",
+     "hexColor": "#E28090",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный пурпурно-синий",
+     "hexColor": "#423C63",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный пурпурный",
+     "hexColor": "#7F4870",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный розовый",
+     "hexColor": "#EE9086",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный серо-коричневый",
+     "hexColor": "#674C47",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный синевато-зеленый",
+     "hexColor": "#2F6556",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный синий",
+     "hexColor": "#395778",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный фиолетовый",
+     "hexColor": "#543964",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Умеренный цвет орхидеи",
+     "hexColor": "#BA55D3",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фалунский красный",
+     "hexColor": "#801818",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фанданго",
+     "hexColor": "#B55489",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фейсбук",
+     "hexColor": "#3B5998",
+     "alt_name1": "Facebook",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фелдграу",
+     "hexColor": "#4D5D53",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиалковый",
+     "hexColor": "#EA8DF7",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-баклажанный",
+     "hexColor": "#991199",
+     "alt_name1": "Violet-eggplant",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-красный",
+     "hexColor": "#C71585",
+     "alt_name1": "Red-violet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-красный (Crayola)",
+     "hexColor": "#F75394",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-сизый",
+     "hexColor": "#8000FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-синий",
+     "hexColor": "#354D73",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетово-синий (Crayola)",
+     "hexColor": "#324AB2",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетовый циан",
+     "hexColor": "#8B00FF",
+     "alt_name1": "Violet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетовый",
+     "hexColor": "#800080",
+     "alt_name1": "Purple",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фиолетовый (пурпурный) (Crayola)",
+     "hexColor": "#926EAE",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фисташковый",
+     "hexColor": "#BEF574",
+     "alt_name1": "nil",
+     "alt_name2": "фисташка",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Французский розовый",
+     "hexColor": "#F64A8A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фталоцианитовый зеленый",
+     "hexColor": "#123524",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фузи-Вузи",
+     "hexColor": "#CC6666",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фуксия",
+     "hexColor": "#FF00FF",
+     "alt_name1": "Fuchsia",
+     "alt_name2": "фуксия",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фуксия (Crayola)",
+     "hexColor": "#C364C5",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Фуксин",
+     "hexColor": "#F754E1",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Хаки",
+     "hexColor": "#C3B091",
+     "alt_name1": "Khaki",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Хромовый зеленый",
+     "hexColor": "#2E3A23",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цвет загара",
+     "hexColor": "#D2B48C",
+     "alt_name1": "Tan",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цвет морской пены",
+     "hexColor": "#FFF5EE",
+     "alt_name1": "Seashell",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цвет флага ООН",
+     "hexColor": "#5B92E5",
+     "alt_name1": "United Nations Blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цвет яйца дрозда",
+     "hexColor": "#00CCCC",
+     "alt_name1": "Robin egg blue",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цветочный белый",
+     "hexColor": "#FFFAF0",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цементно-серый (цементный)",
+     "hexColor": "#7D8471",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Цинково-желтый",
+     "hexColor": "#F8F32B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Циннвальдит",
+     "hexColor": "#EBC2AF",
+     "alt_name1": "Zinnwaldite",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Циннвальдитово-розовый",
+     "hexColor": "#FFCBBB",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-зеленый",
+     "hexColor": "#343E40",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-коричневый",
+     "hexColor": "#212121",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-красный",
+     "hexColor": "#412227",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-оливковый",
+     "hexColor": "#3B3C36",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-серый",
+     "hexColor": "#23282B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черно-синий",
+     "hexColor": "#18171C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черновато-зеленый",
+     "hexColor": "#141613",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черновато-красный",
+     "hexColor": "#1F0E11",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черновато-пурпурный",
+     "hexColor": "#1D1018",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черновато-синий",
+     "hexColor": "#161A1E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черное море",
+     "hexColor": "#1A4780",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черный",
+     "hexColor": "#000000",
+     "alt_name1": "Black",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Черный янтарь",
+     "hexColor": "#0A0A0A",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Чертополох",
+     "hexColor": "#D8BFD8",
+     "alt_name1": "Thistle",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Чертополох (Crayola)",
+     "hexColor": "#EBC7DF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шамуа",
+     "hexColor": "#A08040",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шанду",
+     "hexColor": "#738678",
+     "alt_name1": "Xanadu",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шафраново-желтый",
+     "hexColor": "#F5D033",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шафрановый",
+     "hexColor": "#F4C430",
+     "alt_name1": "Saffron",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шелковистые нитевидные пестики початков неспелой кукурузы",
+     "hexColor": "#FFF8DC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шелковица (Crayola)",
+     "hexColor": "#C54B8C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шокирующий розовый (Crayola)",
+     "hexColor": "#FB7EFD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шоколадно-коричневый",
+     "hexColor": "#45322E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Шоколадный",
+     "hexColor": "#D2691E",
+     "alt_name1": "Chocolate",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Экрю",
+     "hexColor": "#CDB891",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Экстравагантный розовый (Crayola)",
+     "hexColor": "#FF33CC",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Электрик",
+     "hexColor": "#7DF9FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Электрик Лайм (Crayola)",
+     "hexColor": "#CEFF1D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яблочно-зеленый",
+     "hexColor": "#8DB600",
+     "alt_name1": "Apple Green",
+     "alt_name2": "яблоко",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ядовито-зеленый",
+     "hexColor": "#40826D",
+     "alt_name1": "Viridian",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яндекс",
+     "hexColor": "#FFCC00",
+     "alt_name1": "Tangerine",
+     "alt_name2": "Yandex",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Янтарный",
+     "hexColor": "#FFBF00",
+     "alt_name1": "Amber",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий желтовато-зеленый",
+     "hexColor": "#93AA00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий желтовато-розовый",
+     "hexColor": "#FF845C",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий зеленовато-желтый",
+     "hexColor": "#F4C800",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий зеленый",
+     "hexColor": "#007D34",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий красновато-оранжевый",
+     "hexColor": "#F13A13",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий красновато-пурпурный",
+     "hexColor": "#7E0059",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий красный",
+     "hexColor": "#C10020",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий оранжево-желтый",
+     "hexColor": "#FF8E00",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий оранжевый",
+     "hexColor": "#FF6800",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий пурпурно-красный",
+     "hexColor": "#D5265B",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий пурпурный",
+     "hexColor": "#943391",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий синевато-зеленый",
+     "hexColor": "#00836E",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Яркий фиолетовый (Crayola)",
+     "hexColor": "#8F509D",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-бирюзовый",
+     "hexColor": "#08E8DE",
+     "alt_name1": "Bright turquoise",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-желтый",
+     "hexColor": "#FFB300",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-зеленый",
+     "hexColor": "#66FF00",
+     "alt_name1": "Bright green",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-красно-оранжевый",
+     "hexColor": "#F75E25",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-мандариновый",
+     "hexColor": "#FFA089",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-розовый цвет",
+     "hexColor": "#FC0FC0",
+     "alt_name1": "Hot pink",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-синий",
+     "hexColor": "#007CAD",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-сиреневый",
+     "hexColor": "#E0B0FF",
+     "alt_name1": "nil",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   },
+   {
+     "name": "Ярко-фиолетовый",
+     "hexColor": "#CD00CD",
+     "alt_name1": "Bright violet",
+     "alt_name2": "nil",
+     "alt_name3": "nil"
+   }
+ ]
+}
